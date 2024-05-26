@@ -8,7 +8,7 @@
 # <div align="center">Hello, and welcome to my profile!</div>  
   
 
-<a href="https://github.com/https://github.com/LironJu" target="_blank">
+<a href="https://github.com/https://github.com/JuravskiLiron" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/rror1k/" target="_blank">
@@ -19,7 +19,7 @@
 
 
 ### About me 🔍  
-👋 Hi there! I'm Liron, a Middle C# programmer on a journey of continuous learning and growth. With a keen eye for detail and a drive for excellence, I immerse myself in all aspects of C# development.
+👋 Hi there! I'm Liron, a Middle C# programmer on a journey of continuous learning and growth. With a keen eye for detail and a drive for excellence, I immerse myself in all aspects of Full Stack C# development(And React).
 
 🚀 Armed with a solid foundation in C#, I thrive in crafting elegant solutions to complex problems. Whether it's designing efficient algorithms or architecting robust applications, I'm always up for the challenge.
 
@@ -114,14 +114,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lironju&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JuravskiLiron&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lironju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lironju&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuravskiLiron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuravskiLiron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
