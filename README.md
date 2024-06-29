@@ -81,10 +81,7 @@
 
 
 
-### 🎮Game Development 
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-</div>  
+
 
 
 
