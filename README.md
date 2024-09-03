@@ -10,9 +10,7 @@
 # <div align="center">Hello, and welcome to my profile!</div>  
   
 
-<a href="https://github.com/https://github.com/JuravskiLiron" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.instagram.com/rror1k/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -34,7 +32,6 @@
 
 
 ## More...  
-<table><tr><td valign="top" width="50%">
 
 - 💻 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge with the community. I believe in the power of giving back and paying it forward in the ever-evolving tech landscape.  
   
@@ -42,12 +39,7 @@
 - 🌟 Continuous improvement is my mantra. I'm not just content with being good I aim to be exceptional. Every project is an opportunity to push boundaries, innovate, and deliver solutions that exceed expectations.  
 
 
-</td><td valign="top" width="50%">
 
-<img src="https://www.wpoven.com/wp-content/uploads/2022/07/made-by-developers-for-the-developers.png" align="left" style="width: 100%" />  
-
-
-</td></tr></table>  
 
 <br/>  
 
