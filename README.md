@@ -15,7 +15,7 @@
 
 
 ### About me 🔍  
-👋 Hi there! I'm Liron, a Middle C# programmer on a journey of continuous learning and growth. With a keen eye for detail and a drive for excellence, I immerse myself in all aspects of Full Stack C# development(And React).
+👋 Hi there! I'm Liron, a <!-- Middle --> C# programmer on a journey of continuous learning and growth. With a keen eye for detail and a drive for excellence, I immerse myself in all aspects of Full Stack C# development(And React).
 
 🚀 Armed with a solid foundation in C#, I thrive in crafting elegant solutions to complex problems. Whether it's designing efficient algorithms or architecting robust applications, I'm always up for the challenge.
 
